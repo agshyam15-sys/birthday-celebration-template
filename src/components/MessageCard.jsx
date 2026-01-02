@@ -15,7 +15,11 @@ function MessageCard({ isActive }) {
 
   const message = `M.,
 
+I miss you Paglu. Thank You for being part of my life. Some strings always had seem to be attach to you. 
+I always wonder your presence in my life. I have cherished every moment I spent with you.
 
+Glad to have a person like you, one who understands me, one who fights with me, one who takes care
+of me and one who I can love with my whole heart. Meri Radha.
 
 Happy Birthday Baccha! 🎉
 
