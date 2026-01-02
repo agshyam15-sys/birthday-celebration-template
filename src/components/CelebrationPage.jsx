@@ -44,7 +44,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
     },
     {
       icon: "✨",
-      text: "Have a look at it, Meri Jaan",
+      text: "Have a look at it, Meri Jaan!!",
       type: "announcement",
     },
   ];
